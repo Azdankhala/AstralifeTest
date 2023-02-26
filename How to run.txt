@@ -1,0 +1,9 @@
+Panduan Instalasi: 
+
+Untuk menggunakan API ini, Anda perlu melakukan instalasi intellij terlebih dahulu.
+
+Clone repository ini ke komputer Anda.
+install semua dependensi.
+Jalankan aplikasi untuk memulai server API.
+
+
